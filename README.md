@@ -6,6 +6,8 @@ book.
 
 ## Usage
 
+`$ cargo run <search term> <file to search>`
+
 ## Comments
 
 If you use this and it's helpful, I'd love to hear about it! (@unl0ckd). If you
